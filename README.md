@@ -2,7 +2,7 @@
 
 Client/Server Python codes for enabling file transfer over TCP/IP.
 
-##Steps to run sample code
+## Steps to run sample code
 1. Run `python server.py` and copy address displayed 
 	`>>''_addr_''<<`
 2. Run `pyhon client.py`
