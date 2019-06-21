@@ -1,4 +1,4 @@
-# Transferring files over TCP using Pythong
+# Transferring files over TCP using Python
 
 Client/Server Python codes for enabling file transfer over TCP/IP.
 
